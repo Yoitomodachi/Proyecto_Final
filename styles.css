@@ -1,0 +1,42 @@
+/*
+Autor: Roberto Jaime Rico Sandoval.
+Fille; Proyecto final.
+Date: 02/ 06/ 2022
+*/
+
+.pTexto{
+    position: relative;
+    color: rgb(250, 248, 248);
+    font-family: 'Kdam Thmor Pro', sans-serif;
+}
+
+.sTexto{
+    position: relative;
+    font-family: 'Times New Roman';
+}
+
+.card{
+    position: relative;
+    left: 150px;
+    width: 950px;
+    height: 350px;
+    background-color: black;
+}
+
+.avatar{
+    position: relative;
+    top: -185px;
+    left: 100px;
+    width: 400px;
+    height: 350px;
+    display: block;
+}
+
+.avatar2{
+    position: relative;
+    top: -160px;
+    left: 500px;
+    width: 400px;
+    height: 350px;
+    display: block;
+}
